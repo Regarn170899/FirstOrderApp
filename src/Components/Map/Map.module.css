@@ -1,0 +1,40 @@
+.mapContainer{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.mapText {
+    color: #3EB3B7;
+    text-align: center;
+    font-family: Lobster;
+    font-size: 96px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.map{
+    width: 989px;
+    height: 524px;
+    z-index: 2;
+    border: #3EB3B7 2px solid;
+}
+.textContainer{
+    padding-top: 550px;
+}
+
+.descriptionContainer{
+    margin-top: -520px;
+    z-index: 1;
+    background-color: #3EB3B7;
+    border-radius: 50%;
+    width: 930px;
+    height: 930px;
+    color: #FFF;
+    text-align: center;
+    font-family: Ledger;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
