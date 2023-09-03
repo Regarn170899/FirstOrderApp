@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/FirstOrderApp/static/css/main.ce8a4087.css",
-    "main.js": "/FirstOrderApp/static/js/main.f1650800.js",
+    "main.css": "/FirstOrderApp/static/css/main.1bb6c539.css",
+    "main.js": "/FirstOrderApp/static/js/main.bbd94c47.js",
     "static/js/787.1b10e197.chunk.js": "/FirstOrderApp/static/js/787.1b10e197.chunk.js",
     "static/media/Lobster-Regular.ttf": "/FirstOrderApp/static/media/Lobster-Regular.03c38496322925fec242.ttf",
     "static/media/ImgInfo.png": "/FirstOrderApp/static/media/ImgInfo.71f2e748e72701e32f79.png",
@@ -22,12 +22,12 @@
     "static/media/item2.svg": "/FirstOrderApp/static/media/item2.7a03f8cdaf9ead89662f0938ddb7ff12.svg",
     "static/media/MaskOnBtn.png": "/FirstOrderApp/static/media/MaskOnBtn.8828ed3af399df0f5cca.png",
     "index.html": "/FirstOrderApp/index.html",
-    "main.ce8a4087.css.map": "/FirstOrderApp/static/css/main.ce8a4087.css.map",
-    "main.f1650800.js.map": "/FirstOrderApp/static/js/main.f1650800.js.map",
+    "main.1bb6c539.css.map": "/FirstOrderApp/static/css/main.1bb6c539.css.map",
+    "main.bbd94c47.js.map": "/FirstOrderApp/static/js/main.bbd94c47.js.map",
     "787.1b10e197.chunk.js.map": "/FirstOrderApp/static/js/787.1b10e197.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce8a4087.css",
-    "static/js/main.f1650800.js"
+    "static/css/main.1bb6c539.css",
+    "static/js/main.bbd94c47.js"
   ]
 }
