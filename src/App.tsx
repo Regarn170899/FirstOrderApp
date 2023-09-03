@@ -7,6 +7,7 @@ import AnimationLine from "./Components/AnimationLine/AnimationLine";
 import OurTeachers from "./Components/OurTeachers/OurTeachers";
 import CustomGallery from "./Components/CustomGallery/CustomGallery";
 import MapY from "./Components/Map/Map";
+import Footer from "./Components/Footer/Footer";
 
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
         <OurTeachers/>
         <CustomGallery/>
          <MapY/>
+          <Footer/>
       </div>
   );
 }

@@ -23,6 +23,7 @@ const CustomGallery = () => {
 
     return (
         <div className={styles.customGalleryContainer}>
+            <h2 className={styles.galleryText}>Фотостенд</h2>
             <Gallery
                 images={images}
                 onClick={handleClick}

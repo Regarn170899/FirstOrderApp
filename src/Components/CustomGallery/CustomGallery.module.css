@@ -3,3 +3,12 @@
     margin: 0 auto;
     padding-top: 153px;
 }
+.galleryText{
+    color: #3EB3B7;
+    text-align: center;
+    font-family: Lobster;
+    font-size: 128px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
