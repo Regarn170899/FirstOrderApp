@@ -1,0 +1,86 @@
+.OurTeachers{
+    position:relative;
+
+}
+.item3{
+    position: absolute;
+    top: 670px;
+    left: 720px;
+}
+.item7{
+    position: absolute;
+    top: 1070px;
+    left: 320px;
+    transform: rotate(-11.098deg);
+}
+.item4{
+    position: absolute;
+    top: 970px;
+    left: 1020px;
+    transform: rotate(9.286deg);
+}
+.nameSector{
+    color: #3EB3B7;
+    font-family: Lobster;
+    font-size: 128px;
+    margin-left: 147px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    transform: rotate(-16.666deg);
+}
+.cardContainer{
+    display: flex;
+}
+.cardContainerFirst{
+    margin-left: 220px;
+    margin-top: 70px;
+    width: 492px;
+    height: 702px;
+    border-radius: 35px;
+    border: 3px solid #FFF;
+    background-image: url("../../assets/img/derocorForCard.png");
+    background-color: #3EB3B7;
+    background-repeat: no-repeat;
+}
+.cardContainerTwo{
+    margin-left: 75px;
+    margin-top: -70px;
+    width: 492px;
+    height: 702px;
+    border-radius: 35px;
+    border: 3px solid #FFF;
+    background-image: url("../../assets/img/derocorForCard.png");
+    background-color: #3EB3B7;
+    background-repeat: no-repeat;
+    transform: scale(-1, 1);
+
+}
+.card{
+    transform: scale(-1, 1);
+}
+.img{
+    background-image: url("../../assets/img/Ellipse 8.png");
+    width: 383px;
+    height: 420px;
+    margin-left: 56px;
+    margin-top: 10px;
+}
+.textFio{
+    color: #FFF;
+    text-align: center;
+    font-family: Ledger;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.textDescription{
+    color: #FFF;
+    text-align: center;
+    font-family: Ledger;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}

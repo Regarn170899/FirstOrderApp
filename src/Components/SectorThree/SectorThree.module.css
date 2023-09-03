@@ -1,0 +1,53 @@
+.sectorContainer{
+    position: relative;
+    max-width: 1440px;
+    margin: 0 auto;
+    padding-bottom: 170px;
+}
+.item1{
+    position: absolute;
+    right: 91px;
+    top: 2302px;
+    transform: rotate(42.15deg);
+}
+.item2{
+    position: absolute;
+    right: 91px;
+    top: 1702px;
+    transform: rotate(2.841deg);
+}
+.item3{
+    position: absolute;
+    left: 291px;
+    top: 830px;
+    transform: rotate(2.841deg);
+}
+.item4{
+    position: absolute;
+    left: 1151px;
+    top: 230px;
+    transform: rotate(35.96deg);
+}
+.item7{
+    position: absolute;
+    left: 1251px;
+    top: 700px;
+    transform: rotate(-30.72deg);
+}
+.item8{
+    position: absolute;
+    left: 151px;
+    top: 1230px;
+    transform: rotate(-12.77deg);
+}
+.item5{
+    position: absolute;
+    left: 100px;
+    top: 3030px;
+    transform: rotate(-11.54deg);
+}
+.item6{
+    position: absolute;
+    left: 240px;
+    top: 2480px;
+}

@@ -1,0 +1,46 @@
+.imgContainer{
+    background-image: url("../../assets/img/AboutPhoto.png");
+    width:350px;
+    height: 464px;
+}
+.topContainer{
+    display: flex;
+    max-width: 1000px;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+}
+.textContainer{
+    background-color: #3EB3B7;
+    padding-left: 14px;
+    border-radius: 50px;
+    border: 3px solid #FFF;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    width: 606px;
+    height: 418px;
+    color: #FFF;
+    font-family: Ledger;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.headerText{
+    font-size: 64px;
+    margin: 0;
+}
+.whiteBlock{
+    width: 100%;
+    height: 157px;
+    background: #FFF;
+    margin-top: 116px;
+    position: relative;
+}
+.circleContainer{
+    top: -100px;
+    width: 100%;
+    position: absolute;
+    display: flex;
+    justify-content: space-around;
+}

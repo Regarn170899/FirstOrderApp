@@ -1,0 +1,22 @@
+.circleTextContainer{
+    width: 196px;
+    height: 196px;
+    background-color: #3EB3B7;
+    border: 2px solid #FFF;
+    border-radius: 50%;
+    color: #FFFFFF;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text{
+    max-width: 190px;
+    color: #FFF;
+    text-align: center;
+    font-family: Lobster;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
