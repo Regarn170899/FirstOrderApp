@@ -1,18 +1,19 @@
 import React from 'react';
 import styles from "./Header.module.css"
 
-const menu=['О нас','Услуги','Галерея','Персонал','Контакты']
+const menu=[{text:'О нас',id:'#SectorTwo'}, {text:'Услуги',id:"#InfoContainer"},
+    {text:'Галерея',id:"#Gallery"}, {text:'Персонал',id:"#ourTeachers"}, {text:'Контакты',id:"#Map"}]
 
 const Header = () => {
     return (
         <div className={styles.headerContainer}>
             <div className={styles.container}>
-                <div className={styles.logo}><img src="../../assets/img/headerLogo.svg" alt=""/></div>
+                <div className={styles.logo}></div>
                 <ul className={styles.menu}>
                     {menu.map((item)=>(
                         <div className={styles.menuItem}>
-                            <li >
-                                {item}
+                            <li ><a href={item.id}>{item.text}</a>
+
                             </li>
                         </div>
 

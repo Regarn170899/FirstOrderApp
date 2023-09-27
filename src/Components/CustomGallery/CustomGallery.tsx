@@ -22,7 +22,7 @@ const CustomGallery = () => {
     const handleMoveNext = () => setIndex(nextIndex);
 
     return (
-        <div className={styles.customGalleryContainer}>
+        <div id="Gallery" className={styles.customGalleryContainer}>
             <h2 className={styles.galleryText}>Фотостенд</h2>
             <Gallery
                 images={images}

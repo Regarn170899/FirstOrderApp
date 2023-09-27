@@ -3,7 +3,7 @@ import styles from './InfoContainer.module.css'
 
 const InfoContainer = (props) => {
     return (
-        <div className={styles.info}>
+        <div id="InfoContainer" className={styles.info}>
             <div className={styles.infoContainer}>
                 <div className={styles.bottomContainer}>
                     <div className={styles.imgContainer}></div>

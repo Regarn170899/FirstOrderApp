@@ -6,7 +6,7 @@ import item7 from "../../assets/img/item7.svg";
 import item3 from "../../assets/img/item3.svg";
 const OurTeachers = () => {
     return (
-        <div className={style.OurTeachers}>
+        <div id="ourTeachers" className={style.OurTeachers}>
             <div className={style.item3}><img src={item3} alt=""/></div>
             <div className={style.item4}><img src={item4} alt=""/></div>
             <div className={style.item7}><img src={item7} alt=""/></div>

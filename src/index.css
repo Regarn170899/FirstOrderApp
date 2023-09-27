@@ -17,3 +17,6 @@ code {
   url("./Fonts/Lobster/Lobster-Regular.ttf") format("truetype");
   font-weight: normal;
 }
+html {
+  scroll-behavior: smooth;
+}
