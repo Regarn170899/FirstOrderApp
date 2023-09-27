@@ -4,7 +4,7 @@ import CircleTextContainer from "../CircleTextContainer/CircleTextContainer";
 
 const SectorTwo = () => {
     return (
-        <div className={styles.sectorContainer}>
+        <div id="SectorTwo" className={styles.sectorContainer}>
             <div className={styles.topContainer}>
                 <div className={styles.imgContainer}>
                 </div>

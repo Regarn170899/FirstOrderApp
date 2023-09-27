@@ -40,3 +40,8 @@ li{
     height: 99px;
     background-image: url("../../assets/img/backItemMenu.png");
 }
+.menuItem a{
+    text-decoration: none;
+    color: #3EB3B7;
+
+}
